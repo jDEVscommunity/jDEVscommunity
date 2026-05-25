@@ -1,1 +1,1 @@
-<img width="1024" height="512" alt="wide_logo_w (1)" src="https://github.com/user-attachments/assets/84ed7257-038d-4b62-87f0-4518d1c7629d" />
+<img width="2160" height="780" alt="jdcs26" src="https://github.com/user-attachments/assets/67223c21-6862-4e99-bc1f-468a85e15c8d" />
